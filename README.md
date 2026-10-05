@@ -1,2 +1,3 @@
 # GitHub-Pages
-Esse repositório serve pra criar minha página para o projeto de Bootcamp I
+
+Esse repositório tem como objetivo criar o site para o trabalho de Bootcamp I.
